@@ -10,10 +10,6 @@ target = 807
 # function to add two numbers represented as linked lists
 def addTwoNumbers(l1: List[int], l2: List[int]) -> List[int]:
 
-    # Initialize the results List and carry the variable
-    result = []
-    carry = 0
-
     # Reverse the input lists to the correct order
     new_list1 = l1[::-1]
     new_list2 = l2[::-1]
