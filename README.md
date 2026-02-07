@@ -7,6 +7,7 @@ My solutions to Data Structures and Algorithms problems, solved in Python.
 | #   | Problem                          | Difficulty | Solution                       |
 | --- | -------------------------------- | ---------- | ------------------------------ |
 | 1   | [Two Sum](Two%20Sum/question.md) | 🟢 Easy    | [Python](Two%20Sum/two-sum.py) |
+| 2   | [Add Two Numbers](Add%20Two%20Numbers/question.md) | 🟢 Easy    | [Python](Add%20Two%20Numbers/add-two-numbers.py) |
 
 ## 🗂️ Structure
 
@@ -19,7 +20,7 @@ Each problem folder contains:
 
 - [x] Arrays
 - [ ] Strings
-- [ ] Linked Lists
+- [x] Linked Lists
 - [ ] Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
